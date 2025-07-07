@@ -25,4 +25,8 @@ Install packages:
     pip isntall pandas numpy seaborn matplotlib scikit-learn scipy
 ```
 
+To ensure that the packages are installed run `pip list` in the terminal with the venv active
+
+**Known issue**:
+    Be sure to change the interpreter to the venv corresponding interpreter to recognize the downloaded packages
 
