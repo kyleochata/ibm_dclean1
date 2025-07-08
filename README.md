@@ -1,5 +1,15 @@
 # ibm_dclean1
 
+Practice data anlaysis and data cleaning (normalization / standardization). This is using housing data from IBM. Goals are to use log functions to transform the data, handle duplicate data entries, handle missing values, standardize & normalize data, and handle outliers. 
+
+Packages needed are:
+- pandas for managing data
+- numpy for mathematical operations
+- seaborn for data visualization
+- matplotlib for visualizing the data
+- sklearn for machine learning and machine-learning-pipeline related functions
+- scipy for statistical computations
+
 ## Set up venv
 Create the virtual environment to download needed packages
 ```bash
